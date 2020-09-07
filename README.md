@@ -1,2 +1,3 @@
-# kindness
-The key to a new (abstract) world.
+# Kindness
+
+Base type to make higher kinded types compatible with each other across package boundaries.
