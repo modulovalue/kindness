@@ -1,3 +1,3 @@
 # Kindness
 
-Base type to make higher kinded types compatible with each other across package boundaries.
+A lightweight support library for higher kinded types in Dart.
