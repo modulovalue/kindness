@@ -1,3 +1,9 @@
+## 4.0.0
+
+- added applicative
+- added monad
+- added fix
+
 ## 3.0.0
 
 - added functor base type
